@@ -89,6 +89,11 @@ button {
   font-size: 1.4rem;
 }
 
+.footer .footer-popular {
+    cursor: pointer;
+    margin-left: 2rem;
+  }
+
 .nav {
   max-width: 1100px;
   margin: 0 auto;
